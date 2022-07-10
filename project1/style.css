@@ -1,0 +1,83 @@
+html {
+    height: 2082px;
+    width: 1519px;
+}
+
+.head-bg {
+  background-image: url("img/Header_background.png");
+    background-repeat: no-repeat;
+  position: absolute;
+  left: 0px;
+  top: -65px;
+  width: 1519px;
+  height: 600px;
+  z-index: 149;
+}
+
+.Notify_ {
+    font-size: 60px;
+    font-family: "Pacifico";
+    color: rgb(255, 255, 255);
+    line-height: 0.333;
+    text-align: left;
+    position: absolute;
+    left: 318.937px;
+    top: 209.718px;
+    z-index: 175;
+    font-family: "pacifico"
+}
+
+.Notify1 {
+    font-family: "Pacifico";
+    color: #2ecc71;
+}
+
+.A_great_new {
+    font-size: 24px;
+    font-family: "HelveticaNeue";
+    color: rgb(255, 255, 255);
+    line-height: 1.5;
+    text-align: left;
+    position: absolute;
+    left: 327.844px;
+    top: 328.96px;
+    width: 403px;
+    height: 59px;
+    z-index: 174;
+}
+
+.features {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1519px;
+  height: 330px;
+  z-index: 146;
+}
+
+.notified {
+    background-color: rgb(227, 227, 227);
+    position: absolute;
+    left: 0px;
+    top: 945px;
+    width: 1519px;
+    height: 427px;
+    z-index: 90;
+    margin-top: 40px;
+}
+
+.touch{
+    top:1800px;
+    height: 100px;
+    width: 1519px;
+    margin: -10px;
+}
+footer{
+    top:1950px;
+    width: 1519px;
+  
+}
+
+
+
+

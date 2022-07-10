@@ -1,0 +1,206 @@
+.headline1 {
+  font-size: 24px;
+  font-family: "Raleway";
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  line-height: 1;
+  text-align: center;
+  position: absolute;
+  left: 680.274px;
+  top: 1718.996px;
+  z-index: 35;
+}
+
+.Whatisthis {
+  font-size: 16px;
+  font-family: "HelveticaNeue";
+  color: rgb(132, 132, 132);
+  line-height: 1.625;
+  text-align: left;
+  position: absolute;
+  left: 575.937px;
+  top: 1772.546px;
+  z-index: 34;
+}
+
+.social{
+  display: inline-block;
+}
+
+
+.social_media {
+  opacity: 0.749;
+  width: 1519px;
+    top: 1650px;
+    
+}
+
+.twitter {
+  position: absolute;
+  width: 1519px;
+  height: 1968px;
+  z-index: 32;
+}
+.icon7 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 27;
+}
+.container7 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197);
+  position: absolute;
+  top: 1845px;
+    left: 673px;
+  width: 34px;
+  height: 34px;
+  z-index: 30;
+}
+.container7:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}
+.facebook {
+  position: absolute;
+    width: 1519px;
+  height: 1968px;
+  z-index: 28;
+}
+.icon8 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 27;
+}
+.container8 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197);
+  position: absolute;
+  top: 1845px;
+  width: 34px;
+    left: 717px;
+  height: 34px;
+  z-index: 26;
+}
+.container8:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}
+.pinterest {
+  position: absolute;
+    width: 1519px;
+  height: 1968px;
+  z-index: 24;
+}
+
+.icon9 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 22;
+}
+.container9 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197); /*(46, 204, 113)*/
+  position: absolute;
+  top: 1845px;
+  width: 34px;
+    left: 761px;
+  height: 34px;
+  z-index: 21;
+}
+.container9:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}
+.google {
+  position: absolute;
+    width:1519px;
+  height: 1968px;
+  z-index: 19;
+}
+.icon10 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 14;
+}
+.container10 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197);
+  position: absolute;
+  left: 805px;
+  top: 1845px;
+  width: 34px;
+  height: 34px;
+  z-index: 13;
+}
+.container10:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}
+.linkedin {
+  position: absolute;
+  width: 1519px;
+  height: 1968px;
+  z-index: 15;
+}
+.icon11 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 14;
+}
+.container11 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197);
+  position: absolute;
+  left: 849px;
+  top: 1845px;
+  width: 34px;
+  height: 34px;
+  z-index: 13;
+}
+.container11:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}
+.youtube {
+  position: absolute;
+  width: 1519px;
+  height: 1968px;
+  z-index: 11;
+}
+.icon12 {
+  background-color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1752px;
+  width: 34px;
+  height: 34px;
+  z-index: 10;
+}
+.container12 {
+  border-radius: 50%;
+  background-color: rgb(197, 197, 197);
+  position: absolute;
+  left: 893px;
+  top: 1845px;
+  width: 34px;
+  height: 34px;
+  z-index: 9;
+}
+.container12:hover{
+    background-color: #2ecc71;
+    opacity:100%;
+}

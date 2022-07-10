@@ -1,0 +1,110 @@
+.form {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 1519px;
+    height: 10px;
+    z-index: 125;
+    margin-top: 50px;
+}
+
+.Notify {
+    font-size: 22px;
+    font-family: "Raleway";
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    line-height: 0.818;
+    text-align: left;
+    position: absolute;
+    left: 549.902px;
+    top: 262.288px;
+    z-index: 124;
+}
+
+.container_notify {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-radius: 0px 15px 15px 0px;
+    background-color: rgb(46, 204, 113);
+    position: absolute;
+    left: 514px;
+    top: 225px;
+    width: 148px;
+    height: 63px;
+    z-index: 123;
+    text-align: center;
+}
+
+.container_notify:hover {
+    background-color: rgb(46, 224, 113);
+    top: 223px;
+    /* на 2 меньше чем .container_notify было 1168 */
+    width: 154px;
+    height: 67px;
+}
+
+.Email_Address {
+    font-size: 18px;
+    font-family: "HelveticaNeue";
+    color: rgb(132, 132, 132);
+    line-height: 1;
+    text-align: left;
+    position: absolute;
+    left: 233.844px;
+    top: 226px;
+    z-index: 122;
+}
+
+.container_email {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(200, 200, 200);
+    border-radius: 15px;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+    left: 206px;
+    top: 225px;
+    /* так же как и .container_notify  */
+    width: 425px;
+    height: 60px;
+    z-index: 121;
+    padding: 0px 0px 0px 25px;
+}
+
+.article {
+    font-size: 16px;
+    font-family: "HelveticaNeue";
+    color: rgb(132, 132, 132);
+    line-height: 1.625;
+    text-align: left;
+    position: absolute;
+    left: 209.026px;
+    top: 80px;
+    width: 533px;
+    height: 91px;
+    z-index: 118;
+}
+
+.headline {
+  font-size: 22px;
+  font-family: "Raleway";
+  color: rgb(34, 34, 34);
+  font-weight: bold;
+  line-height: 0.818;
+  position: absolute;
+  left: 209.938px;
+  top: 38px;
+  z-index: 119;
+}
+
+.container_video {
+    border-radius: 8px;
+    background-color: rgb(197, 197, 197);
+    position: absolute;
+    left: 889px;
+    top: 60px;
+    width: 500px;
+    height: 307px;
+    z-index: 92;
+}

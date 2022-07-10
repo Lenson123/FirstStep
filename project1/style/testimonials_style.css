@@ -1,0 +1,42 @@
+.testimonials {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1519px;
+  z-index: 88;
+}
+.author {
+  font-size: 18px;
+  font-family: "Raleway";
+  color: rgb(46, 46, 46);
+  font-weight: bold;
+  line-height: 1.111;
+  text-align: center;
+  position: absolute;
+  left: 747.625px;
+  top: 1552.001px;
+  z-index: 87;
+}
+.quote {
+  font-size: 18px;
+  font-family: "HelveticaNeue";
+  color: rgb(132, 132, 132);
+  font-style: italic;
+  line-height: 1.667;
+  text-align: center;
+  position: absolute;
+  left: 383.205px;
+  top: 1459.89px;
+  width: 825px;
+  height: 47px;
+  z-index: 86;
+}
+.people {
+  position: absolute;
+  top: 1630px;
+  width: 1137px;
+  height: 59px;
+  z-index: 85;
+  left: 12.5%;
+}
+
